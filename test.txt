@@ -7,3 +7,4 @@ test stash
 
 oh test checkout
 diff
+working diff
